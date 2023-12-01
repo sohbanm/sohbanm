@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Sohban Malik 👋
 
-<!--
-**sohbanm/sohbanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate computer science student seeking Software Engineer Internships. This is my GitHub where I share my projects and contributions to display my skills.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Languages: Python, Java, JavaScript, TypeScript, PHP, C, Ruby, Bash, HTML, CSS, SQL
+- Frameworks: Vue, React, Angluar, Flask, Rails, Jupyter
+- Libraries/Tools: MongoDB, Scikit-learn, Pandas, NumPy, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+Check out my [portfolio site](https://sohban.netlify.app/) for more details about my work experience.
+
+## 💼 Interests
+- Backend development
+- Machine Learning and AI
+- Data Engineering and Science
+- Micro-Services (learning)
+
+## 📚 Education
+- York University, Bachelor of Science in Computer Science, May 2025
+
+## 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/sohban](https://www.linkedin.com/in/sohban/)
+- Email: sohbanelahimalik@gmail.com
