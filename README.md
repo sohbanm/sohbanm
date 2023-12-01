@@ -1,10 +1,10 @@
-# Hello, I'm Sohban Malik 👋
+# Hello, I'm Sohban👋
 
 I'm a passionate computer science student seeking Software Engineer Internships. This is my GitHub where I share my projects and contributions to display my skills.
 
 ## 🔧 Skills
 - Languages: Python, Java, JavaScript, TypeScript, PHP, C, Ruby, Bash, HTML, CSS, SQL
-- Frameworks: Vue, React, Angluar, Flask, Rails, Jupyter
+- Frameworks: Vue, React, Angular, Flask, Rails, Jupyter
 - Libraries/Tools: MongoDB, Scikit-learn, Pandas, NumPy, Postman
 
 ## 🌐 Portfolio
