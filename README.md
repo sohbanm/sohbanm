@@ -14,7 +14,6 @@ Check out my [portfolio site](https://sohban.netlify.app/) for more details abou
 - Backend development
 - Machine Learning and AI
 - Data Engineering and Science
-- Micro-Services (learning)
 
 ## 📚 Education
 - York University, Bachelor of Science in Computer Science, May 2025
