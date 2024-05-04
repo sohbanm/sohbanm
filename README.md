@@ -3,16 +3,16 @@
 I'm a passionate computer science student seeking Software Engineer Internships. This is my GitHub where I share my projects and contributions to display my skills.
 
 ## 🔧 Skills
-- Languages: Python, Java, JavaScript, TypeScript, PHP, C, Ruby, Bash, HTML, CSS, SQL
-- Frameworks: Vue, React, Angular, Flask, Rails, Jupyter
-- Libraries/Tools: MongoDB, Scikit-learn, Pandas, NumPy, MySQL
-- Tools: Docker, Hadoop, Postman, Linux
+- Languages: Python, Java, JavaScript, TypeScript, PHP, C, C#, Ruby, Bash, HTML, CSS, SQL
+- Frameworks: Vue, React, Angular, Spring Boot, Flask, Rails, .NET, Jupyter
+- Data Tools: MongoDB, Scikit-learn, Pandas, NumPy, MySQL
+- Dev Tools: Docker, Hadoop, Postman, Linux
 
 ## 🌐 Portfolio
 Check out my [portfolio site](https://sohban.netlify.app/) for more details about my work experience.
 
 ## 💼 Interests
-- Backend development
+- Backend/fullstack development
 - Machine Learning and AI
 - Data Engineering and Science
 
