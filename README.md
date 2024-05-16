@@ -9,7 +9,7 @@ I'm a passionate computer science student seeking Software Engineer Internships.
 - Dev Tools: Docker, Hadoop, Postman, Linux
 
 ## 🌐 Portfolio
-Check out my [portfolio site](https://sohban.netlify.app/) for more details about my work experience.
+Check out my [portfolio site](https://sohban.netlify.app/) for more details about my work experience and resume.
 
 ## 💼 Interests
 - Backend/fullstack development
