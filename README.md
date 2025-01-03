@@ -3,9 +3,9 @@
 I'm a passionate computer science student seeking Software Engineer Internships. This is my GitHub where I share my projects and contributions to display my skills.
 
 ## 🔧 Skills
-- Languages: Python, Java, JavaScript, TypeScript, PHP, C/C++, C#, Ruby, Bash, HTML, CSS, SQL
+- Languages: Python, Java, Go, JavaScript, TypeScript, PHP, C/C++, C#, Ruby, Bash, HTML, CSS, SQL
 - Frameworks: Spring Boot, Vue, Django, React, Angular, Flask, Rails, .NET, Jupyter
-- Data Tools: Postgres, MySQL, MongoDB, Scikit-learn, Pandas, NumPy
+- Data Tools: Postgres, MySQL, MongoDB, Langchain, Scikit-learn, Pandas, NumPy
 - Dev Tools: Postman, Azure, Docker, Hadoop, Linux
 
 ## 🌐 Portfolio
@@ -13,11 +13,11 @@ Check out my [portfolio site](https://sohban.netlify.app/) for more details abou
 
 ## 💼 Interests
 - Backend/fullstack development
+- Distributed Systems
 - Machine Learning and AI
-- Data Engineering and Science
 
 ## 📚 Education
-- York University, Bachelor of Science in Computer Science, December 2025
+- York University, Bachelor of Science in Computer Science, May 2026
 
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/sohban](https://www.linkedin.com/in/sohban/)
