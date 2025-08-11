@@ -1,15 +1,12 @@
 # Hello, I'm Sohban👋
 
-I'm a passionate computer science student seeking Software Engineer Internships. This is my GitHub where I share my projects and contributions to display my skills.
+I'm a passionate computer science student seeking Software Engineer New Grad '26 opportunities. This is my GitHub where I share my projects and contributions to display my skills.
 
 ## 🔧 Skills
-- Languages: Python, Java, Go, JavaScript, TypeScript, PHP, C/C++, C#, Ruby, Bash, HTML, CSS, SQL
-- Frameworks: Spring Boot, Vue, Django, React, Angular, Flask, Rails, .NET, Jupyter
+- Languages: Python, Java, Go, JavaScript, TypeScript, PHP, C/C++, C#, Ruby, SQL
+- Frameworks: Spring Boot, Vue, React, Django, FastApi, Angular, Flask, Rails, .NET, Jupyter
 - Data Tools: Postgres, MySQL, MongoDB, Langchain, Scikit-learn, Pandas, NumPy
-- Dev Tools: Postman, Azure, Docker, Hadoop, Linux
-
-## 🌐 Portfolio
-Check out my [portfolio site](https://sohban.netlify.app/) for more details about my work experience and resume.
+- Dev Tools: Kubernetes, Helm, Docker, Postman, Azure, Docker, Linux/Unix
 
 ## 💼 Interests
 - Backend/fullstack development
